@@ -1,12 +1,9 @@
-package com.example.croutinestutorial
+package com.example.croutinestutorial.Flow
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.catch
-import kotlinx.coroutines.flow.filter
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.flowOf
-import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.zip
 import kotlinx.coroutines.runBlocking
 
